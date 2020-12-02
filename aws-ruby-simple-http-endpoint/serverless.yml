@@ -2,6 +2,9 @@ service: aws-ruby-simple-http-endpoint
 
 frameworkVersion: ">2.0.0"
 
+org: testorgcis
+app: aws-ruby-simple-http-endpoint
+
 provider:
   name: aws
   runtime: ruby2.5
